@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\HP\\Desktop\\ConstellationSelect\\pickerview\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_basepickerview.xml"
+    }
+]

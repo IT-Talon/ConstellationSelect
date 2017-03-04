@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_user_birthday_update"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#33333333"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/rl_user_detail_birthday"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffffff">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:text="@string/birthday"
+            android:textColor="#ff333333"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tv_user_detail_birthday"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:gravity="center_vertical"
+            android:text="@string/my_birthday"
+            android:textColor="#ff999999"
+            android:textSize="16sp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_user_detail_astrology"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/rl_user_detail_birthday"
+        android:layout_marginTop="0.5dp"
+        android:background="#ffffffff">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:text="@string/astrology"
+            android:textColor="#ff333333"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tv_user_detail_astrology"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:gravity="center_vertical"
+            android:text="@string/my_astrology"
+            android:textColor="#ff999999"
+            android:textSize="16sp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
